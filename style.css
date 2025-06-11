@@ -1,0 +1,27 @@
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table th {
+  border: 1px solid black;
+}
+table td {
+  border: 1px solid black;
+}
+
+form {
+  width: 650px;
+}
+
+label {
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+}
+input {
+  width: 80%;
+  padding: 10px;
+  margin-top: 5px;
+}
